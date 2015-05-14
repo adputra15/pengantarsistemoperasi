@@ -1,2 +1,5 @@
-# pengantarsistemoperasi
-Ini adalah repository untuk tugas Laporan Praktikum 5. Anugrah Dwiatmaja Putra. 5214100080.
+public class hello{
+  public static void main(string[]args){
+    System.out.println("Hello Putra!!");
+  }
+}
